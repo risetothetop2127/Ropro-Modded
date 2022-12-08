@@ -3,7 +3,7 @@ Ropro is a extension that makes Roblox better on Chrome and Bing,
 
 ```json
 {
-  "Version": "1.5"
+  "Version": "1.3"
 }
 ```
 
