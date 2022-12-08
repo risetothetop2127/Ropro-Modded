@@ -108,7 +108,3 @@ li:first-child {
 .light-theme .ropro-special-icon {
 	filter: invert(0.7)!important;
 }
-
-.ropro-theme #offersLoading {
-	height: 40px!important;
-}
